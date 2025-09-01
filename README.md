@@ -1,1 +1,1 @@
-C repo for academics ;p
+C/Cpp repo for academics ;p
